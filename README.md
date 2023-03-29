@@ -13,7 +13,7 @@ Welcome. This page has been written by [Joel Maldonado Salvador](https://github.
 
 ## What is Copyright?
 
-According to the official [Cambridge dictionary]([https://dictionary.cambridge.org/es/diccionario/ingles/copyright]), copyright is the legal right to control the production and sale of a book, play, film, photograph or piece of music.
+According to the official [Cambridge dictionary](https://dictionary.cambridge.org/es/diccionario/ingles/copyright), copyright is the legal right to control the production and sale of a book, play, film, photograph or piece of music.
 
 ## Trademarks & IP Registering
 
