@@ -13,11 +13,14 @@ Welcome. This page has been written by [Joel Maldonado Salvador](https://github.
 
 ## What is Copyright?
 
-According to the official [Cambridge dictionary](https://dictionary.cambridge.org/es/diccionario/ingles/copyright), copyright is the legal right to control the production and sale of a book, play, film, photograph or piece of music.
+According to the official Cambridge dictionary, [Copyright](https://dictionary.cambridge.org/es/diccionario/ingles/copyright) is the legal right to control the production and sale of a book, play, film, photograph or piece of music.
 
 ## Trademarks & IP Registering
 
-a
+* **Trademark**
+According to the official Cambridge dictionary a [trademark](https://dictionary.cambridge.org/es/diccionario/ingles/trademark) is a name or symbol on a product that indicates that it has been manufactured by a particular company, and may not be used by other companies without permission.
+
+* **IP registering**
 
 ## Software Licenses VS Code/Assets Licenses
 
@@ -44,3 +47,8 @@ a
 * **Creative Commons**
 
 ![image](https://user-images.githubusercontent.com/99949847/228395762-d30fd43d-9992-4a5c-998d-cc84317dc30d.png)
+
+### Quick explanation of each license
+
+<a href="https://www.youtube.com/watch?v=6etRzaESeuk&t=1s" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrZU2WPr0STIVgYiPj1piE_AF45iAW_TNKw&usqp=CAU" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
