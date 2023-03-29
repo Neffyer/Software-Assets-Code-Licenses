@@ -32,7 +32,14 @@ IP registration refers to the process of obtaining legal protection for various 
 
 ## Software Licenses VS Code/Assets Licenses
 
+* **Software**
 
+Set forth the terms and conditions for the use of the software and may include limitations on the number of devices on which the software may be installed, restrictions on the modification of the software and requirements to pay for the use of the software.
+
+* **Code & Assets**
+
+These have greater flexibility in the use and modification of licensed materials.
+These licenses set out the terms and conditions for the use of that code or asset, and may include restrictions on the modification, distribution and commercial use of the code or asset.
 
 ## BEST FREE LICENSE OPTIONS
 
