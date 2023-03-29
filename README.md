@@ -1,2 +1,2 @@
 # Software-Assets-Code-Licenses
-Hi. This page has been written by Mario Garcia Sutil, student of the CITM Bachelor’s Degree in Videogame Design and Development.
+Welcome. This page has been written by [Joel Maldonado Salvador](https://github.com/Neffyer), student of the [CITM](https://www.citm.upc.edu) Bachelor’s Degree in Videogame Design and Development.
