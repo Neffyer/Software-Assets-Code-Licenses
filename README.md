@@ -58,11 +58,11 @@ IP registration refers to the process of obtaining legal protection for various 
 alt="IMAGE ALT TEXT HERE" width="426" height="240" border="10" /></a>
 
 ## References
-https://www.youtube.com/watch?v=6etRzaESeuk
-https://www.uspto.gov/trademarks/basics/trademark-patent-copyright
-https://www.lawinsider.com/dictionary/ip-registrations
-https://www.gnu.org/licenses/gpl-3.0.html
-https://www.apache.org/licenses/LICENSE-2.0
-https://opensource.org/license/mit/
-https://creativecommons.org/licenses/?lang=es_ES
-https://www.gnu.org/licenses/copyleft.es.html#:~:text=Copyleft%20significa%20que%20cualquiera%20que,se%20sumen%20al%20software%20libre
+* https://www.youtube.com/watch?v=6etRzaESeuk
+* https://www.uspto.gov/trademarks/basics/trademark-patent-copyright
+* https://www.lawinsider.com/dictionary/ip-registrations
+* https://www.gnu.org/licenses/gpl-3.0.html
+* https://www.apache.org/licenses/LICENSE-2.0
+* https://opensource.org/license/mit/
+* https://creativecommons.org/licenses/?lang=es_ES
+* https://www.gnu.org/licenses/copyleft.es.html#:~:text=Copyleft%20significa%20que%20cualquiera%20que,se%20sumen%20al%20software%20libre
