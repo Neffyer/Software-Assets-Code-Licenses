@@ -13,18 +13,26 @@ Welcome. This page has been written by [Joel Maldonado Salvador](https://github.
 
 ## What is Copyright?
 
-According to the official Cambridge dictionary, [Copyright](https://dictionary.cambridge.org/es/diccionario/ingles/copyright) is the legal right to control the production and sale of a book, play, film, photograph or piece of music.
+According to the official Cambridge dictionary, [Copyright](https://dictionary.cambridge.org/es/diccionario/ingles/copyright) is the legal right to control the production and sale of an artistic, literary, or intellectually created works such as books, plays, films, photographs or pieces of music.
+
+![image](https://user-images.githubusercontent.com/99949847/228408952-20433aa7-5185-4e92-83a0-61469430ca46.png)
 
 ## Trademarks & IP Registering
 
 * **Trademark**
-According to the official Cambridge dictionary a [trademark](https://dictionary.cambridge.org/es/diccionario/ingles/trademark) is a name or symbol on a product that indicates that it has been manufactured by a particular company, and may not be used by other companies without permission.
+
+According to [uspto.gov](https://www.uspto.gov/trademarks/basics/trademark-patent-copyright)A word, phrase, design, or combination that identifies your goods or services, distinguishes them from those of others, and indicates the origin of your goods or services.
+It protects trademarks from unauthorized registration and helps prevent others from using trademarks similar to yours for related goods or services.
 
 * **IP registering**
 
+IP registration refers to the process of obtaining legal protection for various types of intellectual property, including patents, trademarks & copyrights,
+
+![image](https://user-images.githubusercontent.com/99949847/228409042-d641e98f-54aa-4742-9a75-717c3b45a41c.png)
+
 ## Software Licenses VS Code/Assets Licenses
 
-a
+
 
 ## BEST FREE LICENSE OPTIONS
 
@@ -40,15 +48,21 @@ a
 
 ![image](https://user-images.githubusercontent.com/99949847/228395830-f38b3329-b350-4a6c-baba-1906668a8482.png)
 
-* **BSD - License**
-
-![image](https://user-images.githubusercontent.com/99949847/228395798-5b7b8c43-cefe-4a90-be61-521eb1eb01e2.png)
-
 * **Creative Commons**
 
 ![image](https://user-images.githubusercontent.com/99949847/228395762-d30fd43d-9992-4a5c-998d-cc84317dc30d.png)
 
 ### Quick explanation of each license
 
-<a href="https://www.youtube.com/watch?v=6etRzaESeuk&t=1s" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrZU2WPr0STIVgYiPj1piE_AF45iAW_TNKw&usqp=CAU" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=6etRzaESeuk&t=1s" target="_blank"><img src="https://i.ytimg.com/vi/6etRzaESeuk/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="426" height="240" border="10" /></a>
+
+## References
+https://www.youtube.com/watch?v=6etRzaESeuk
+https://www.uspto.gov/trademarks/basics/trademark-patent-copyright
+https://www.lawinsider.com/dictionary/ip-registrations
+https://www.gnu.org/licenses/gpl-3.0.html
+https://www.apache.org/licenses/LICENSE-2.0
+https://opensource.org/license/mit/
+https://creativecommons.org/licenses/?lang=es_ES
+https://www.gnu.org/licenses/copyleft.es.html#:~:text=Copyleft%20significa%20que%20cualquiera%20que,se%20sumen%20al%20software%20libre
