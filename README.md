@@ -64,7 +64,9 @@ These licenses set out the terms and conditions for the use of that code or asse
 <a href="https://www.youtube.com/watch?v=6etRzaESeuk&t=1s" target="_blank"><img src="https://i.ytimg.com/vi/6etRzaESeuk/maxresdefault.jpg" 
 alt="IMAGE ALT TEXT HERE" width="426" height="240" border="10" /></a>
 
-## References
+## References & Links
+* [PowerPoint](https://docs.google.com/presentation/d/1Ai_i96cvxkpmfDy6W1l3JDP98P62-0jVm8Oo-fjUt8E/edit?usp=sharing)
+* [Repository]()
 * https://www.youtube.com/watch?v=6etRzaESeuk
 * https://www.uspto.gov/trademarks/basics/trademark-patent-copyright
 * https://www.lawinsider.com/dictionary/ip-registrations
